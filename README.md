@@ -9,7 +9,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/BASED_IN-INDIA-C4B5FD?style=for-the-badge&labelColor=111018" />
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/FOCUS-DATA_%26_DEVELOPMENT-C4B5FD?style=for-the-badge&labelColor=111018" />
 </p>
 
@@ -21,10 +21,10 @@
 
 <table>
 <tr>
-<td width="32%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 <img src="./ziya-build-photo.png" width="250" alt="Ziya at Build event" />
 </td>
-<td width="68%" valign="middle">
+<td width="65%" valign="middle">
 
 Hi! I'm <strong>Ziya</strong>, an MCA student specialising in <strong>Data Science</strong>.
 
@@ -50,31 +50,70 @@ I'm always learning, experimenting with tools, and improving through hands-on pr
 
 ### AI & LLMs
 
-<div align="center">
-<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
-</div>
+<table>
+<tr>
+<td align="center" width="33%" bgcolor="#171923">
+<img src="./logo-copilot.png" width="75" height="65" /><br/>
+<strong>GitHub Copilot</strong>
+</td>
+<td align="center" width="33%" bgcolor="#171923">
+<img src="./logo-bedrock.png" width="75" height="65" /><br/>
+<strong>AWS Bedrock</strong>
+</td>
+<td align="center" width="33%" bgcolor="#171923">
+<img src="./logo-antigravity.png" width="75" height="65" /><br/>
+<strong>Antigravity</strong>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#171923">
+<img src="./logo-claude.png" width="75" height="65" /><br/>
+<strong>Claude</strong>
+</td>
+<td align="center" bgcolor="#171923">
+<img src="./logo-chatgpt.png" width="75" height="65" /><br/>
+<strong>ChatGPT</strong>
+</td>
+<td align="center" bgcolor="#171923">
+<img src="./logo-perplexity.png" width="75" height="65" /><br/>
+<strong>Perplexity</strong>
+</td>
+</tr>
+</table>
 
 ### Data Analytics & Business Intelligence
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="45" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tableau/E97627" height="45" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/databricks/FF3621" height="45" />
-</div>
+<table>
+<tr>
+<td align="center" width="33%" bgcolor="#171923">
+<img src="./logo-powerbi.png" width="85" height="65" /><br/>
+<strong>Power BI</strong>
+</td>
+<td align="center" width="33%" bgcolor="#171923">
+<img src="./logo-tableau.png" width="85" height="65" /><br/>
+<strong>Tableau</strong>
+</td>
+<td align="center" width="33%" bgcolor="#171923">
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="65" height="65" /><br/>
+<strong>Databricks</strong>
+</td>
+</tr>
+</table>
 
 ### Cloud Platforms
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
-</div>
+<table>
+<tr>
+<td align="center" width="50%" bgcolor="#171923">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65" /><br/>
+<strong>Amazon Web Services</strong>
+</td>
+<td align="center" width="50%" bgcolor="#171923">
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="65" /><br/>
+<strong>Google Cloud Platform</strong>
+</td>
+</tr>
+</table>
 
 ### Databases & Developer Tools
 
@@ -88,7 +127,7 @@ I'm always learning, experimenting with tools, and improving through hands-on pr
 
 ### 01 · Reforest Today
 
-<strong>A web-based platform supporting reforestation awareness in Pune.</strong>
+**A web-based platform supporting reforestation awareness in Pune.**
 
 <table>
 <tr>
@@ -99,15 +138,13 @@ I'm always learning, experimenting with tools, and improving through hands-on pr
 
 The project helps users explore suitable plants for different areas of Pune and learn more about plantation and plant growth.
 
-<strong>Highlights</strong>
-<ul>
-<li>Location-based plant recommendations</li>
-<li>Interactive map experience</li>
-<li>Carbon footprint and tree growth tracking</li>
-<li>Plant health recognition prototype</li>
-</ul>
+**Highlights**
+- Location-based plant recommendations
+- Interactive map experience
+- Carbon footprint and tree growth tracking
+- Plant health recognition prototype
 
-<strong>Tech used:</strong> HTML, CSS, JavaScript, Python, Google Maps API.
+**Tech used:** HTML, CSS, JavaScript, Python, Google Maps API.
 
 </td>
 </tr>
@@ -115,7 +152,7 @@ The project helps users explore suitable plants for different areas of Pune and 
 
 ### 02 · Telecom Customer Churn Analysis
 
-<strong>A Power BI dashboard exploring customer churn patterns.</strong>
+**A Power BI dashboard exploring customer churn patterns.**
 
 <table>
 <tr>
@@ -126,15 +163,13 @@ The project helps users explore suitable plants for different areas of Pune and 
 
 An analytics dashboard designed to make customer churn patterns easier to understand through visual summaries.
 
-<strong>Highlights</strong>
-<ul>
-<li>Customer churn rate and customer counts</li>
-<li>Churn breakdown by demographics</li>
-<li>Service and payment-method analysis</li>
-<li>Visual comparison of customer segments</li>
-</ul>
+**Highlights**
+- Customer churn rate and customer counts
+- Churn breakdown by demographics
+- Service and payment-method analysis
+- Visual comparison of customer segments
 
-<strong>Tech used:</strong> Power BI, data visualisation and analytics.
+**Tech used:** Power BI, data visualisation and analytics.
 
 </td>
 </tr>
@@ -142,7 +177,7 @@ An analytics dashboard designed to make customer churn patterns easier to unders
 
 ### 03 · eRasta
 
-<strong>Smart logistics and accessibility intelligence for the North Eastern Region of India.</strong>
+**Smart logistics and accessibility intelligence for the North Eastern Region of India.**
 
 <table>
 <tr>
@@ -153,17 +188,15 @@ An analytics dashboard designed to make customer churn patterns easier to unders
 
 An intelligent logistics platform designed to support safer, more informed route planning in a region affected by challenging terrain and weather.
 
-<strong>Highlights</strong>
-<ul>
-<li>GIS-based road visualisation</li>
-<li>Road-risk assessment and route intelligence</li>
-<li>Weather and disaster-alert context</li>
-<li>Field reports and fleet-status views</li>
-</ul>
+**Highlights**
+- GIS-based road visualisation
+- Road-risk assessment and route intelligence
+- Weather and disaster-alert context
+- Field reports and fleet-status views
 
-<strong>Achievement:</strong> Internal Smart India Hackathon 2026 winner.
+**Achievement:** Internal Smart India Hackathon 2026 winner.
 
-<strong>Technologies explored:</strong> GIS, OpenStreetMap data, routing engines and Python-based development.
+**Technologies explored:** GIS, OpenStreetMap data, routing engines and Python-based development.
 
 </td>
 </tr>
