@@ -2,14 +2,12 @@
 
 # ✦ ZIYA SHAIKH
 
-### Data Science • Development • Problem Solving
+### Data Science · Development · Problem Solving
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=620&lines=MCA+%7C+Data+Science;Exploring+Data+and+Technology;Building+Ideas+Into+Useful+Solutions" alt="Animated introduction" />
 
-<p>
-  <img src="https://img.shields.io/badge/BASED_IN-INDIA-C4B5FD?style=for-the-badge&labelColor=111018" alt="Based in India" />
-  <img src="https://img.shields.io/badge/FOCUS-DATA_%26_DEVELOPMENT-C4B5FD?style=for-the-badge&labelColor=111018" alt="Data and development" />
-</p>
+<img src="https://img.shields.io/badge/BASED_IN-INDIA-C4B5FD?style=for-the-badge&labelColor=111018" alt="Based in India" />
+<img src="https://img.shields.io/badge/FOCUS-DATA_%26_DEVELOPMENT-C4B5FD?style=for-the-badge&labelColor=111018" alt="Data and development" />
 
 </div>
 
@@ -17,115 +15,117 @@
 
 ## ✦ About Me
 
-<table>
-  <tr>
-    <td width="32%" valign="top">
-      <img src="ziya-build-photo.png" width="100%" alt="Ziya at a Build event" />
-    </td>
-    <td valign="middle">
-      Hi! I'm **Ziya**, an MCA student specialising in **Data Science**.
+<div align="center">
+  <img src="./ziya-build-photo.png" width="260" alt="Ziya at the Build event" />
+</div>
 
-      I'm interested in how technology can turn ideas and information into useful, real-world solutions. I enjoy working across data analytics and software development — from exploring datasets and building dashboards to creating web-based applications.
+Hi! I'm **Ziya**, an MCA student specialising in **Data Science**.
 
-      I'm always learning, experimenting with tools, and improving through hands-on projects. I value curiosity, thoughtful problem-solving, and building things that have a purpose.
+I'm interested in how technology can turn ideas and information into useful, real-world solutions. I enjoy working across data analytics and software development — from exploring datasets and building dashboards to creating web-based applications.
 
-      **Currently exploring:** Data Analytics, Python, SQL, Power BI and application development.
-    </td>
-  </tr>
-</table>
+I'm always learning, experimenting with tools, and improving through hands-on projects. I value curiosity, thoughtful problem-solving, and building things that have a purpose.
+
+**Currently exploring:** Data Analytics, Python, SQL, business intelligence and AI-powered tools.
 
 ---
 
-## ✦ Technologies & Tools
+## ✦ Tech Stack
 
-These are the technologies and tools I've worked with or explored through coursework and projects.
+### Programming & Web Development
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" alt="Python, Java, HTML, CSS and JavaScript" />
+</div>
 
-**Programming & Web**
+### AI & LLMs
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" alt="Python, Java, HTML, CSS and JavaScript" />
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  <br/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+</div>
 
-**Data, Development & Tools**
+### Data Analytics & Business Intelligence
 
-<img src="https://skillicons.dev/icons?i=mysql,flask,git,github,vscode&theme=dark" alt="MySQL, Flask, Git, GitHub and VS Code" />
-<br/><br/>
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-C4B5FD?style=for-the-badge&labelColor=111018" alt="Data Analytics" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Microsoft Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-1F4E79?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+</div>
 
+### Cloud Platforms
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" alt="Amazon Web Services and Google Cloud Platform" />
+</div>
+
+### Databases & Developer Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub and Visual Studio Code" />
 </div>
 
 ---
 
 ## ✦ Featured Projects
 
-### 01 / Reforest Today
+### 01 · Reforest Today
+
 **A web-based platform supporting reforestation awareness in Pune.**
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <img src="reforest-today.png" width="100%" alt="Reforest Today website showing plant recommendations and a Pune map" />
-    </td>
-    <td valign="middle">
-      The project helps users explore suitable plants for different areas of Pune and learn more about plantation and plant growth.
+<img src="./reforest-today.png" width="100%" alt="Reforest Today website showing plant recommendations and a Pune map" />
 
-      **Highlights**
-      - Location-based plant recommendations
-      - Interactive map experience
-      - Carbon footprint and tree growth tracking
-      - Plant health recognition prototype
+The project helps users explore suitable plants for different areas of Pune and learn more about plantation and plant growth.
 
-      **Tech used:** HTML, CSS, JavaScript, Python, Flask, Google Maps API.
-    </td>
-  </tr>
-</table>
+**Highlights**
+- Location-based plant recommendations
+- Interactive map experience
+- Carbon footprint and tree growth tracking
+- Plant health recognition prototype
 
-### 02 / Telecom Customer Churn Analysis
+**Tech used:** HTML, CSS, JavaScript, Python and Google Maps API.
+
+---
+
+### 02 · Telecom Customer Churn Analysis
+
 **A Power BI dashboard exploring customer churn patterns.**
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <img src="telecom-churn-dashboard.png" width="100%" alt="Telecom customer churn analysis Power BI dashboard" />
-    </td>
-    <td valign="middle">
-      An interactive analytics dashboard designed to make customer churn patterns easier to understand through visual summaries.
+<img src="./telecom-churn-dashboard.png" width="100%" alt="Telecom customer churn analysis Power BI dashboard" />
 
-      **Highlights**
-      - Customer churn rate and customer counts
-      - Churn breakdown by demographics
-      - Service and payment-method analysis
-      - Visual comparison of customer segments
+An analytics dashboard designed to make customer churn patterns easier to understand through visual summaries.
 
-      **Tech used:** Power BI, data visualisation and analytics.
-    </td>
-  </tr>
-</table>
+**Highlights**
+- Customer churn rate and customer counts
+- Churn breakdown by demographics
+- Service and payment-method analysis
+- Visual comparison of customer segments
 
-### 03 / eRasta
+**Tech used:** Power BI, data visualisation and analytics.
+
+---
+
+### 03 · eRasta
+
 **Smart logistics and accessibility intelligence for the North Eastern Region of India.**
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <img src="erasta-dashboard.jpg" width="100%" alt="eRasta logistics intelligence command dashboard" />
-    </td>
-    <td valign="middle">
-      An AI-oriented logistics intelligence platform designed to support safer, more informed route planning in a region affected by challenging terrain and weather.
+<img src="./erasta-dashboard.jpg" width="100%" alt="eRasta logistics intelligence command dashboard" />
 
-      **Highlights**
-      - GIS-based road visualisation
-      - Road-risk assessment and route intelligence
-      - Weather and disaster-alert context
-      - Field reports and fleet-status views
+An intelligent logistics platform designed to support safer, more informed route planning in a region affected by challenging terrain and weather.
 
-      **Achievement:** Internal Smart India Hackathon 2026 winner.
+**Highlights**
+- GIS-based road visualisation
+- Road-risk assessment and route intelligence
+- Weather and disaster-alert context
+- Field reports and fleet-status views
 
-      **Technologies explored:** GIS, OpenStreetMap data, routing engines and Python-based development.
-    </td>
-  </tr>
-</table>
+**Achievement:** Internal Smart India Hackathon 2026 winner.
+
+**Technologies explored:** GIS, OpenStreetMap data, routing engines and Python-based development.
 
 ---
 
@@ -133,16 +133,13 @@ These are the technologies and tools I've worked with or explored through course
 
 I'm using GitHub to document my learning, share projects and keep improving through consistent practice.
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Ziyashaikh03?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-C4B5FD?style=for-the-badge&logo=github&logoColor=111018&labelColor=111018" alt="Explore my repositories" />
   </a>
-  <a href="https://github.com/Ziyashaikh03?tab=stars">
-    <img src="https://img.shields.io/badge/PROJECTS_I_STAR-C4B5FD?style=for-the-badge&logo=github&logoColor=111018&labelColor=111018" alt="Projects I star" />
-  </a>
-</p>
+</div>
 
-> **My contribution activity:** GitHub automatically displays your contribution calendar on your profile page below this README. Open the profile to see the live calendar. This avoids relying on third-party statistics images that may fail to load.
+GitHub displays your contribution calendar automatically on your profile, so this section does not depend on external statistics images.
 
 ---
 
@@ -153,8 +150,6 @@ I'm using GitHub to document my learning, share projects and keep improving thro
 <a href="https://github.com/Ziyashaikh03">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<!-- Add your LinkedIn profile URL when ready. -->
-<!-- Add a public contact email only if you want it displayed. -->
 
 <br/><br/>
 
