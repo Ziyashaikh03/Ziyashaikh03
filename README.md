@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td width="32%" valign="top">
-      <img src="assets/ziya-build-photo.png" width="100%" alt="Ziya at a Build event" />
+      <img src="ziya-build-photo.png" width="100%" alt="Ziya at a Build event" />
     </td>
     <td valign="middle">
       Hi! I'm **Ziya**, an MCA student specialising in **Data Science**.
@@ -65,7 +65,7 @@ These are the technologies and tools I've worked with or explored through course
 <table>
   <tr>
     <td width="58%" valign="top">
-      <img src="assets/reforest-today.png" width="100%" alt="Reforest Today website showing plant recommendations and a Pune map" />
+      <img src="reforest-today.png" width="100%" alt="Reforest Today website showing plant recommendations and a Pune map" />
     </td>
     <td valign="middle">
       The project helps users explore suitable plants for different areas of Pune and learn more about plantation and plant growth.
@@ -87,7 +87,7 @@ These are the technologies and tools I've worked with or explored through course
 <table>
   <tr>
     <td width="58%" valign="top">
-      <img src="assets/telecom-churn-dashboard.png" width="100%" alt="Telecom customer churn analysis Power BI dashboard" />
+      <img src="telecom-churn-dashboard.png" width="100%" alt="Telecom customer churn analysis Power BI dashboard" />
     </td>
     <td valign="middle">
       An interactive analytics dashboard designed to make customer churn patterns easier to understand through visual summaries.
@@ -109,7 +109,7 @@ These are the technologies and tools I've worked with or explored through course
 <table>
   <tr>
     <td width="58%" valign="top">
-      <img src="assets/erasta-dashboard.jpg" width="100%" alt="eRasta logistics intelligence command dashboard" />
+      <img src="erasta-dashboard.jpg" width="100%" alt="eRasta logistics intelligence command dashboard" />
     </td>
     <td valign="middle">
       An AI-oriented logistics intelligence platform designed to support safer, more informed route planning in a region affected by challenging terrain and weather.
