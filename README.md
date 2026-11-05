@@ -1,38 +1,36 @@
 
 <div align="center">
 
-# ✦ ZIYA SHAIKH
+# Hi, I'm Ziya Shaikh 👋
 
-### Data Science · Development · Problem Solving
+### MCA (Data Science) | Aspiring Data Analyst | Technology Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=620&lines=MCA+%7C+Data+Science;Exploring+Data+and+Technology;Building+Ideas+Into+Useful+Solutions" />
-
-<p align="center">
-<img src="https://img.shields.io/badge/BASED_IN-INDIA-C4B5FD?style=for-the-badge&labelColor=111018" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-DATA_%26_DEVELOPMENT-C4B5FD?style=for-the-badge&labelColor=111018" />
+<p>
+  <a href="https://github.com/Ziyashaikh03">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+*Turning ideas into meaningful solutions through technology, data, and creativity.*
 
 </div>
 
 ---
 
-## ✦ About Me
+<h2 align="center">✦ About Me</h2>
 
 <table>
 <tr>
 <td width="35%" align="center" valign="middle">
-<img src="./ziya-build-photo.png" width="250" alt="Ziya at Build event" />
+  <img src="./ziya-build-photo.png" width="220" alt="Ziya Shaikh"/>
 </td>
 <td width="65%" valign="middle">
 
-Hi! I'm <strong>Ziya</strong>, an MCA student specialising in <strong>Data Science</strong>.
+Hi! I'm **Ziya Shaikh**, an MCA Data Science student passionate about technology, data analytics, and building practical solutions.
 
-I'm interested in how technology can turn ideas and information into useful, real-world solutions. I enjoy working across data analytics and software development — from exploring datasets and building dashboards to creating web-based applications.
+I enjoy exploring how data, AI, and technology can solve real-world problems. I have worked on projects involving data visualization, GIS-based solutions, and web development.
 
-I'm always learning, experimenting with tools, and improving through hands-on projects. I value curiosity, thoughtful problem-solving, and building things that have a purpose.
-
-<strong>Currently exploring:</strong> Data Analytics, Python, SQL, business intelligence and AI-powered tools.
+I'm constantly learning, experimenting with new tools, and looking for opportunities to grow as a technology professional.
 
 </td>
 </tr>
@@ -40,163 +38,128 @@ I'm always learning, experimenting with tools, and improving through hands-on pr
 
 ---
 
-## ✦ Tech Stack
+<h2 align="center">✦ Tech Stack & Tools</h2>
 
-### Programming & Web Development
+<h3 align="center">Programming & Web Development</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" />
 </div>
 
-### AI & LLMs
+<h3 align="center">AI & Large Language Models</h3>
 
-<table>
-<tr>
-<td align="center" width="33%" bgcolor="#171923">
-<img src="./logo-copilot.png" width="75" height="65" /><br/>
-<strong>GitHub Copilot</strong>
-</td>
-<td align="center" width="33%" bgcolor="#171923">
-<img src="./logo-bedrock.png" width="75" height="65" /><br/>
-<strong>AWS Bedrock</strong>
-</td>
-<td align="center" width="33%" bgcolor="#171923">
-<img src="./logo-antigravity.png" width="75" height="65" /><br/>
-<strong>Antigravity</strong>
-</td>
-</tr>
-<tr>
-<td align="center" bgcolor="#171923">
-<img src="./logo-claude.png" width="75" height="65" /><br/>
-<strong>Claude</strong>
-</td>
-<td align="center" bgcolor="#171923">
-<img src="./logo-chatgpt.png" width="75" height="65" /><br/>
-<strong>ChatGPT</strong>
-</td>
-<td align="center" bgcolor="#171923">
-<img src="./logo-perplexity.png" width="75" height="65" /><br/>
-<strong>Perplexity</strong>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" height="38" alt="GitHub Copilot"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="38" alt="AWS Bedrock"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/google/FFFFFF" height="38" alt="Google Antigravity"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="38" alt="Claude"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="38" alt="ChatGPT"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/perplexity/20B8CD" height="38" alt="Perplexity"/>
+</p>
 
-### Data Analytics & Business Intelligence
+<p align="center">
+  GitHub Copilot · AWS Bedrock · Google Antigravity · Claude · ChatGPT · Perplexity
+</p>
 
-<table>
-<tr>
-<td align="center" width="33%" bgcolor="#171923">
-<img src="./logo-powerbi.png" width="85" height="65" /><br/>
-<strong>Power BI</strong>
-</td>
-<td align="center" width="33%" bgcolor="#171923">
-<img src="./logo-tableau.png" width="85" height="65" /><br/>
-<strong>Tableau</strong>
-</td>
-<td align="center" width="33%" bgcolor="#171923">
-<img src="https://cdn.simpleicons.org/databricks/FF3621" width="65" height="65" /><br/>
-<strong>Databricks</strong>
-</td>
-</tr>
-</table>
+<h3 align="center">Data Analytics & Business Intelligence</h3>
 
-### Cloud Platforms
+<p align="center">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="38" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="38" alt="Tableau"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="38" alt="Databricks"/>
+</p>
 
-<table>
-<tr>
-<td align="center" width="50%" bgcolor="#171923">
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65" /><br/>
-<strong>Amazon Web Services</strong>
-</td>
-<td align="center" width="50%" bgcolor="#171923">
-<img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="65" /><br/>
-<strong>Google Cloud Platform</strong>
-</td>
-</tr>
-</table>
+<h3 align="center">Cloud Platforms</h3>
 
-### Databases & Developer Tools
+<p align="center">
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="38" alt="AWS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="38" alt="Google Cloud"/>
+</p>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
-</div>
+<h3 align="center">Databases & Developer Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark"/>
+</p>
 
 ---
 
-## ✦ Featured Projects
+<h2 align="center">✦ Featured Projects</h2>
 
-### 01 · Reforest Today
-
-**A web-based platform supporting reforestation awareness in Pune.**
+<h3 align="center">01 · Reforest Today 🌱</h3>
 
 <table>
 <tr>
-<td width="44%" valign="top">
-<img src="./reforest-today.png" width="100%" alt="Reforest Today" />
+<td width="44%" valign="middle">
+  <img src="./reforest-today.png" width="100%" alt="Reforest Today Project"/>
 </td>
 <td width="56%" valign="middle">
 
-The project helps users explore suitable plants for different areas of Pune and learn more about plantation and plant growth.
+A web-based initiative focused on promoting reforestation and helping people explore plantation opportunities in Pune.
 
 **Highlights**
-- Location-based plant recommendations
-- Interactive map experience
-- Carbon footprint and tree growth tracking
-- Plant health recognition prototype
+- Interactive map for plantation locations.
+- Carbon footprint tracking.
+- Tree growth tracking.
+- Plant health recognition.
 
-**Tech used:** HTML, CSS, JavaScript, Python, Google Maps API.
+**Technologies:** HTML, CSS, JavaScript, Python, Google Maps API.
 
 </td>
 </tr>
 </table>
 
-### 02 · Telecom Customer Churn Analysis
-
-**A Power BI dashboard exploring customer churn patterns.**
+<h3 align="center">02 · Telecom Churn Analysis 📊</h3>
 
 <table>
 <tr>
-<td width="44%" valign="top">
-<img src="./telecom-churn-dashboard.png" width="100%" alt="Telecom Churn Dashboard" />
+<td width="44%" valign="middle">
+  <img src="./telecom-churn-dashboard.png" width="100%" alt="Telecom Churn Dashboard"/>
 </td>
 <td width="56%" valign="middle">
 
-An analytics dashboard designed to make customer churn patterns easier to understand through visual summaries.
+A data analytics project focused on understanding customer churn patterns and presenting meaningful insights through an interactive dashboard.
 
 **Highlights**
-- Customer churn rate and customer counts
-- Churn breakdown by demographics
-- Service and payment-method analysis
-- Visual comparison of customer segments
+- Customer churn analysis.
+- Data visualization.
+- Business insights and reporting.
+- Dashboard-based presentation.
 
-**Tech used:** Power BI, data visualisation and analytics.
+**Technologies:** Power BI, Data Analytics, Data Visualization.
 
 </td>
 </tr>
 </table>
 
-### 03 · eRasta
-
-**Smart logistics and accessibility intelligence for the North Eastern Region of India.**
+<h3 align="center">03 · eRasta – Smart Logistics & Accessibility Intelligence 🗺️</h3>
 
 <table>
 <tr>
-<td width="44%" valign="top">
-<img src="./erasta-dashboard.jpg" width="100%" alt="eRasta Dashboard" />
+<td width="44%" valign="middle">
+  <img src="./erasta-dashboard.jpg" width="100%" alt="eRasta Dashboard"/>
 </td>
 <td width="56%" valign="middle">
 
-An intelligent logistics platform designed to support safer, more informed route planning in a region affected by challenging terrain and weather.
+An AI-powered logistics and accessibility intelligence platform designed for the North Eastern Region of India.
+
+Developed as part of **Smart India Hackathon 2026 (Internal)** under problem statement SIH26002.
 
 **Highlights**
-- GIS-based road visualisation
-- Road-risk assessment and route intelligence
-- Weather and disaster-alert context
-- Field reports and fleet-status views
+- GIS-based route intelligence.
+- Accessibility and risk assessment.
+- Weather-aware logistics planning.
+- Intelligent route recommendations.
 
-**Achievement:** Internal Smart India Hackathon 2026 winner.
-
-**Technologies explored:** GIS, OpenStreetMap data, routing engines and Python-based development.
+**Technologies:** GIS, OpenStreetMap, Routing Engines, Python.
 
 </td>
 </tr>
@@ -204,30 +167,36 @@ An intelligent logistics platform designed to support safer, more informed route
 
 ---
 
-## ✦ GitHub
-
-I'm using GitHub to document my learning, share projects and keep improving through consistent practice.
+<h2 align="center">✦ GitHub Contributions</h2>
 
 <div align="center">
+
+I believe in learning by building and improving through consistency.
+
+Explore my repositories and contributions:
+
 <a href="https://github.com/Ziyashaikh03?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-C4B5FD?style=for-the-badge&logo=github&logoColor=111018&labelColor=111018" />
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-8B7AB8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</div>
 
-GitHub displays your contribution calendar automatically on your profile.
+</div>
 
 ---
 
-## ✦ Connect
+<h2 align="center">✦ Let's Connect</h2>
 
 <div align="center">
 
 <a href="https://github.com/Ziyashaikh03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-*Curious by nature. Learning by building. Growing with every project.*
+*Thanks for visiting my profile! ✨*
 
 </div>
