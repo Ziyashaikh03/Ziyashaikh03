@@ -19,10 +19,6 @@
 
 </div>
 
-<div align="center">
-<img src="./purple-stars.gif" width="650" alt="Floating neon purple stars"/>
-</div>
-
 ---
 
 <h2 align="center">✧ About Me ✧</h2>
@@ -49,10 +45,6 @@ I'm constantly learning, experimenting with new tools, and looking for opportuni
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="./purple-stars.gif" width="650" alt="Floating neon purple stars"/>
-</div>
 
 ---
 
@@ -96,10 +88,6 @@ I'm constantly learning, experimenting with new tools, and looking for opportuni
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark"/>
 </p>
 
-<div align="center">
-<img src="./purple-stars.gif" width="650" alt="Floating neon purple stars"/>
-</div>
-
 ---
 
 <h2 align="center">✧ Featured Projects ✧</h2>
@@ -127,10 +115,6 @@ A web-based initiative focused on promoting reforestation and helping people exp
 </tr>
 </table>
 
-<div align="center">
-<img src="./purple-stars.gif" width="450" alt="Floating neon purple stars"/>
-</div>
-
 <h3 align="center">02 · Telecom Churn Analysis 📊</h3>
 
 <table>
@@ -153,10 +137,6 @@ A data analytics project focused on understanding customer churn patterns and pr
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="./purple-stars.gif" width="450" alt="Floating neon purple stars"/>
-</div>
 
 <h3 align="center">03 · eRasta – Smart Logistics & Accessibility Intelligence 🗺️</h3>
 
@@ -183,10 +163,6 @@ Developed as part of **Smart India Hackathon 2026 (Internal)** under problem sta
 </tr>
 </table>
 
-<div align="center">
-<img src="./purple-stars.gif" width="650" alt="Floating neon purple stars"/>
-</div>
-
 ---
 
 <h2 align="center">✧ GitHub Contributions ✧</h2>
@@ -207,10 +183,6 @@ View my GitHub profile and contribution activity ✨
 
 </div>
 
-<div align="center">
-<img src="./purple-stars.gif" width="650" alt="Floating neon purple stars"/>
-</div>
-
 ---
 
 <h2 align="center">✧ Let's Connect ✧</h2>
@@ -227,7 +199,7 @@ View my GitHub profile and contribution activity ✨
 
 <br/><br/>
 
-✦ ⋆｡˚ Thank you for visiting my profile! ˚｡⋆ ✦
+✦ Thank you for visiting my profile! ✦
 
 *Keep learning. Keep building. Keep shining.* 💜
 
