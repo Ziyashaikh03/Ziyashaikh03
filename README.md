@@ -17,8 +17,10 @@
 
 *Turning ideas into meaningful solutions through technology, data, and creativity.*
 
-✧ ⋆｡˚ ✦ ˚｡⋆ ✧
+</div>
 
+<div align="center">
+<img src="./purple-stars.gif" width="650" alt="Floating neon purple stars"/>
 </div>
 
 ---
@@ -49,10 +51,10 @@ I'm constantly learning, experimenting with new tools, and looking for opportuni
 </table>
 
 <div align="center">
-
-✦ ─────────────── ⋆｡˚ ✧ ˚｡⋆ ─────────────── ✦
-
+<img src="./purple-stars.gif" width="650" alt="Floating neon purple stars"/>
 </div>
+
+---
 
 <h2 align="center">✧ Tech Stack & Tools ✧</h2>
 
@@ -95,9 +97,7 @@ I'm constantly learning, experimenting with new tools, and looking for opportuni
 </p>
 
 <div align="center">
-
-✧ ⋆｡˚ ✦ ˚｡⋆ ✧
-
+<img src="./purple-stars.gif" width="650" alt="Floating neon purple stars"/>
 </div>
 
 ---
@@ -127,7 +127,9 @@ A web-based initiative focused on promoting reforestation and helping people exp
 </tr>
 </table>
 
-<div align="center">✦ ⋆ ✦</div>
+<div align="center">
+<img src="./purple-stars.gif" width="450" alt="Floating neon purple stars"/>
+</div>
 
 <h3 align="center">02 · Telecom Churn Analysis 📊</h3>
 
@@ -152,7 +154,9 @@ A data analytics project focused on understanding customer churn patterns and pr
 </tr>
 </table>
 
-<div align="center">✦ ⋆ ✦</div>
+<div align="center">
+<img src="./purple-stars.gif" width="450" alt="Floating neon purple stars"/>
+</div>
 
 <h3 align="center">03 · eRasta – Smart Logistics & Accessibility Intelligence 🗺️</h3>
 
@@ -180,9 +184,7 @@ Developed as part of **Smart India Hackathon 2026 (Internal)** under problem sta
 </table>
 
 <div align="center">
-
-✧ ⋆｡˚ ✦ ˚｡⋆ ✧
-
+<img src="./purple-stars.gif" width="650" alt="Floating neon purple stars"/>
 </div>
 
 ---
@@ -205,6 +207,10 @@ View my GitHub profile and contribution activity ✨
 
 </div>
 
+<div align="center">
+<img src="./purple-stars.gif" width="650" alt="Floating neon purple stars"/>
+</div>
+
 ---
 
 <h2 align="center">✧ Let's Connect ✧</h2>
@@ -215,7 +221,7 @@ View my GitHub profile and contribution activity ✨
 <img src="https://img.shields.io/badge/GitHub-211A35?style=for-the-badge&logo=github&logoColor=D8C5FF"/>
 </a>
 
-<a href="www.linkedin.com/in/ziya-shaikh-676052247">
+<a href="https://www.linkedin.com/in/ziya-shaikh-676052247/">
 <img src="https://img.shields.io/badge/LinkedIn-211A35?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
